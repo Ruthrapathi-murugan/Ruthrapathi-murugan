@@ -2,7 +2,7 @@
 
 👀 I’m interested in web development, open-source projects, and learning new programming languages.
 
-🌱 I’m currently learning advanced JavaScript frameworks, specifically React.js and Node.js.
+🌱 I’m currently learning MERN Full stack developer in advanced JavaScript frameworks, specifically React.js and Node.js.
 
 💞️ I’m looking to collaborate on full stack web development projects that make a positive impact.
 
