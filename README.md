@@ -1,5 +1,12 @@
-👋 Hi, I’m @Ruthrapathi-murugan
+👋 Hi, 
+I’m @Ruthrapathi-murugan Welcome to my page!
+Fullstack developer from Bengaluru, Karnataka.
 
+Things I code with
+
+JavaScript React TypeScript Python redux git npm html5 MongoDB Nodejs express.js 
+
+  
 👀 I’m interested in web development, open-source projects, and learning new programming languages.
 
 🌱 I’m currently learning MERN Full stack developer in advanced JavaScript frameworks, specifically React.js and Node.js.
