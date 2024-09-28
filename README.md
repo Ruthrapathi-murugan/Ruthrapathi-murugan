@@ -42,7 +42,7 @@ I'm **Ruthrapathi Murugan**, Fullstack Developer from 🏙️ **Bengaluru, Karna
 
 ### Where to find me
 [![GitHub](https://img.shields.io/badge/GitHub-ruthrapathi--murugan-black?style=flat-square&logo=github)](https://github.com/ruthrapathi-murugan)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ruthrapathi-murugan)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ruthrapathim)  
 [![Email](https://img.shields.io/badge/Email-ruthrapathimurugan@outlook.com-blue?style=flat-square&logo=microsoft-outlook)](mailto:ruthrapathimurugan@outlook.com)
 
 ---
