@@ -20,10 +20,13 @@ Building scalable full-stack applications using the MERN stack.
 Collaborative full-stack web development projects that aim to make a positive impact.
 Opportunities to contribute to open-source projects.
 📬 How to Reach Me:
-### 📬 **How to Reach Me:**
+
 Feel free to reach out through any of the following platforms:
 - **Email:** [ruthrapathimurugan@outlook.com](mailto:ruthrapathimurugan@outlook.com)  
   ![Outlook](https://img.shields.io/badge/Email-ruthrapathimurugan@outlook.com-blue?style=flat-square&logo=microsoft-outlook)
+
+- **Portfolio:** [ruthrapathi-info.netlify.app](ruthrapathi-info.netlify.app)  
+  ![Link](https://img.shields.io/badge/Portfolio-ruthrapathi-info.netlify.app-blue?style=flat-square)
 
 - **LinkedIn:** [Connect with me!](https://www.linkedin.com/in/ruthrapathi-murugan)  
   ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)
@@ -31,13 +34,5 @@ Feel free to reach out through any of the following platforms:
 ⚡ Fun Fact:
 I enjoy reading books 📚 and discussing the latest tech trends with friends over coffee ☕.
 
-### How This Works:
-1. **Profile Views and Followers:** These badges track your profile activity, such as views, followers, and repository stars.
-2. **Technologies Section:** A code block showcases your skills in frontend, backend, databases, and tools.
-3. **GitHub Stats:** The two widgets (GitHub Stats and Top Languages) dynamically show your contribution data and the most used programming languages from your repositories.
-
-To see the stats working, you need to enable these widgets in your repository. For the stats, you can get them from [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
-
-Let me know if you want to customize anything further!
 
 
