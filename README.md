@@ -1,38 +1,51 @@
-# Hi there, I'm **Ruthrapathi Murugan** 👋
+# 😎 Hey! Nice to see you.
 
-![Profile Views](https://komarev.com/ghpvc/?username=ruthrapathi-murugan&style=flat-square&color=blue) ![Followers](https://img.shields.io/github/followers/ruthrapathi-murugan?style=social) ![Stars](https://img.shields.io/github/stars/ruthrapathi-murugan?style=social)
+Welcome to my page!  
+I'm **Ruthrapathi Murugan**, Fullstack Developer from 🏙️ **Bengaluru, Karnataka**.
 
-## 🚀 **Full Stack Developer | Tech Enthusiast** from **Bengaluru, Karnataka** 🏙️
+### Things I code with:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
-I love working on **web development** projects and contributing to **open-source** communities while constantly exploring new programming languages and tools.
+### Projects
+1. **Employee Management System**
+   - Frontend: React.js  
+   - Backend: Node.js and Express.js  
+   - Database: MongoDB  
+   [GitHub Repository](#)
 
-### 🛠️ **Technologies I Work With:**
-```js
-Frontend  : JavaScript | React.js | TypeScript | HTML5 | CSS3 | Bootstrap
-Backend   : Node.js | Express.js | Python
-Databases : MongoDB
-State     : Redux
-Tools     : Git | npm
-📖 Currently Learning:
-Advanced JavaScript frameworks: React.js & Node.js
-Building scalable full-stack applications using the MERN stack.
-💼 What I'm Looking For:
-Collaborative full-stack web development projects that aim to make a positive impact.
-Opportunities to contribute to open-source projects.
-📬 How to Reach Me:
+2. **Portfolio Website**
+   - Frontend: React.js, TypeScript, Styled Components  
+   - Deployment: Netlify  
+   [GitHub Repository](#)
 
-Feel free to reach out through any of the following platforms:
-- **Email:** [ruthrapathimurugan@outlook.com](mailto:ruthrapathimurugan@outlook.com)  
-  ![Outlook](https://img.shields.io/badge/Email-ruthrapathimurugan@outlook.com-blue?style=flat-square&logo=microsoft-outlook)
+3. **Todo List**
+   - Frontend: Angular  
+   - Backend: Node.js (Coming Soon)  
+   [GitHub Repository](#)
 
-- **Portfolio:** [ruthrapathi-info.netlify.app](ruthrapathi-info.netlify.app)  
-  ![Link](https://img.shields.io/badge/Portfolio-ruthrapathi-info.netlify.app-blue?style=flat-square)
+4. **Expense Tracker** - Coming Soon
 
-- **LinkedIn:** [Connect with me!](https://www.linkedin.com/in/ruthrapathi-murugan)  
-  ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)
+### My latest posts
+- [Building scalable MERN stack applications](#)
+- [Understanding CSS Grid and Flexbox](#)
+- [Creating efficient CI/CD pipelines with GitHub Actions](#)
 
-⚡ Fun Fact:
+### Where to find me
+[![GitHub](https://img.shields.io/badge/GitHub-ruthrapathi--murugan-black?style=flat-square&logo=github)](https://github.com/ruthrapathi-murugan)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ruthrapathi-murugan)  
+[![Email](https://img.shields.io/badge/Email-ruthrapathimurugan@outlook.com-blue?style=flat-square&logo=microsoft-outlook)](mailto:ruthrapathimurugan@outlook.com)
+
+---
+
+⚡ **Fun Fact:**  
 I enjoy reading books 📚 and discussing the latest tech trends with friends over coffee ☕.
-
-
-
