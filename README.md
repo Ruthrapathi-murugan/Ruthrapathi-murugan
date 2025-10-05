@@ -34,6 +34,8 @@ I'm **Ruthrapathi Murugan**, Fullstack Developer from 🏙️ **Bengaluru, Karna
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Zoho CRM](https://img.shields.io/badge/Zoho%20CRM-FF0000?style=flat-square&logo=zoho&logoColor=white)
+
 
 
 ### Projects
