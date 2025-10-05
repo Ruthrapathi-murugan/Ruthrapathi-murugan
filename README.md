@@ -5,6 +5,7 @@ I'm **Ruthrapathi Murugan**, Fullstack Developer from 🏙️ **Bengaluru, Karna
 
 ### Things I code with:
 ## 🧩 Frontend Libraries & Frameworks
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
